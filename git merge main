@@ -1,0 +1,8 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 7822991..8856ed3 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,2 @@[m
+ <p>This is my new repo.</p>[m
+[31m-<p>This is the new feature1 (Function)</p>[m
+[32m+[m[32m<p>This is new function using (button)</p>[m
